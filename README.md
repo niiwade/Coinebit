@@ -1,8 +1,9 @@
-# Coinebit was created with react and redux
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Coinebit || latest crypto news and more
+![coinebit](https://user-images.githubusercontent.com/7413400/134214465-ee7a5a72-cc99-413e-a691-094904a626cf.png)
+Coinebit is a cryptocurreny web based app website that is built with react,redux and ant design. It shows realtime crytocurrency details and news
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
@@ -33,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren’t satisfied with the build tool and configuration chocrytoices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
