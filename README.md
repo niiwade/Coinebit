@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Coinebit was created with react and redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
