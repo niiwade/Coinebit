@@ -2,7 +2,7 @@
 
 ![coinebit-removebg-preview](https://user-images.githubusercontent.com/7413400/134214743-a61f8049-3257-47fc-8e02-f22d6fd476b3.png)
 
-Coinebit is a cryptocurreny web based app website that is built with react,redux and ant design. It shows realtime crytocurrency details and news
+Coinebit is a cryptocurreny web based app that is built with react,redux and ant design. It shows realtime crytocurrency details and news
 
 ## Available Scripts
 
