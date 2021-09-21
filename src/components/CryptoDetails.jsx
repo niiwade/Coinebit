@@ -36,7 +36,16 @@ const CryptoDetails = () => {
     
     return (
         < Col className="coin-detail-container" >
-            
+            <Col className="coin-detail-header">
+                <Title level={2} className="coin-name">{cryptoDetails.name} ({cryptoDetails.slug}) Price</Title>
+                <p>
+                    {cryptoDetails.name} live price in USD.
+                    View Market Cap, Value Statistics and Supply
+                </p>
+            </Col>
+            <Select defaultValue='7d' className='select-timeperiod' placeholder='Select Time Period'>
+
+            </Select>
        </Col >
     )
 }
