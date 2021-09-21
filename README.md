@@ -1,4 +1,4 @@
-# Coinebit || latest crypto news and more
+# CoineBit || latest crypto news and more
 
 ![coinebit-removebg-preview](https://user-images.githubusercontent.com/7413400/134214743-a61f8049-3257-47fc-8e02-f22d6fd476b3.png)
 
