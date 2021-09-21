@@ -1,7 +1,6 @@
 # Coinebit || latest crypto news and more
 
 ![coinebit-removebg-preview](https://user-images.githubusercontent.com/7413400/134214743-a61f8049-3257-47fc-8e02-f22d6fd476b3.png)
-![coinebit](https://user-images.githubusercontent.com/7413400/134214465-ee7a5a72-cc99-413e-a691-094904a626cf.png)
 
 Coinebit is a cryptocurreny web based app website that is built with react,redux and ant design. It shows realtime crytocurrency details and news
 
