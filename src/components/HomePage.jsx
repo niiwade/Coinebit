@@ -13,10 +13,10 @@ const HomePage = () => {
     const { data, isFetching } = useGetCryptosQuery(10);
     const globalStats = data?.data?.stats;
 
-    if(isFetching) return 'Loading..';
+    if(isFetching) return 'Loading...';
     return (
         <>
-            <Title level={2} className="heading">Global Cryptocurrencies Statistics</Title> 
+            <Title level={2} className="heading">Global Cryptocurrency Statistics</Title> 
             <Row>
                 <Col span={12}><Statistic title="Total Cryptocurrencies" value={globalStats.total} /></Col>
                 <Col span={12}><Statistic title="Total Exchanges" value={millify(globalStats.totalExchanges)} /></Col>
